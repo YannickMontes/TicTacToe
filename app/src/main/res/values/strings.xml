@@ -3,4 +3,8 @@
     <string name="joueur_x">Joueur X</string>
     <string name="joueur_o">Joueur O</string>
     <string name="run">Run</string>
+    <string name="game_won">Game won by</string>
+    <string name="game_end">Game end</string>
+    <string name="replay">Replay</string>
+    <string name="quit">Quit app</string>
 </resources>
